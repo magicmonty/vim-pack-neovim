@@ -1,0 +1,12 @@
+[submodule "opt/deoplete-emoji"]
+	path = opt/deoplete-emoji
+	url = https://github.com/fszymanski/deoplete-emoji.git
+  ignore=dirty
+[submodule "opt/deoplete-fsharp"]
+	path = opt/deoplete-fsharp
+	url = https://github.com/callmekohei/deoplete-fsharp.git
+  ignore=dirty
+[submodule "opt/deoplete.nvim"]
+	path = opt/deoplete.nvim
+	url = https://github.com/Shougo/deoplete.nvim.git
+  ignore=dirty
